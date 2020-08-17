@@ -151,3 +151,29 @@ header h2 {
     font-weight: 700;
     color: #373A3C;
 }
+
+/* footer */
+
+footer {
+    background-color: darkolivegreen;  
+}
+
+footer h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+footer.bg-verde {
+    background-color: darkolivegreen;
+}
+
+.carousel-indicators {
+    top: 70px;
+}
+
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}

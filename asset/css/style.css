@@ -16,7 +16,7 @@ nav.bg-verde {
     background-color: darkolivegreen;
 }
 
-a.navbar-brand {
+nav p {
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
     font-weight: 700;
